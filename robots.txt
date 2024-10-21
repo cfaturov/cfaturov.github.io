@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://cfaturov.github.io/cfaturov.txt.gz
+Sitemap: https://cfaturov.github.io/app/cfaturov.txt.gz
+Sitemap: https://cfaturov.github.io/assets/cfaturov.txt.gz
+Sitemap: https://cfaturov.github.io/css/cfaturov.txt.gz
+Sitemap: https://cfaturov.github.io/includes/cfaturov.txt.gz
+Sitemap: https://cfaturov.github.io/item/cfaturov.txt.gz
+Sitemap: https://cfaturov.github.io/src/cfaturov.txt.gz
